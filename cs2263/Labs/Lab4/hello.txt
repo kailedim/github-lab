@@ -2,6 +2,10 @@ Hello
 
 Edited
 
+<<<<<<< HEAD
 Another Edit
 
 Another simulate a conflict
+=======
+Simulate a conflict
+>>>>>>> 46975f4f5bf91431a8f8edef91615b7dd2dea9ef
